@@ -12,7 +12,9 @@ Converting the CSGCombiner node to a MeshInstance will add a Trimesh Static Body
 
 Currently (Godot 3.4.3) CSG nodes do not support Physics Materials, this addon helps work with CSG nodes by converting the CSG geometry to a MeshInstance node that may override the physics properties
 
+
 Original script: https://github.com/mohammedzero43/CSGExport-Godot
+
 Limitations:
 - Only works when you select 1 CSGCombiner node (Cant multiselect)
 
