@@ -24,5 +24,6 @@ Limitations:
 
 
 
-https://user-images.githubusercontent.com/2546522/158038410-33369c57-d556-4891-a60a-4b92ee4e5a95.mov
+![CSG Converter](https://user-images.githubusercontent.com/2546522/158038471-d6c34ff2-c104-4a65-a7e4-18eecfa56ad8.gif)
+
 
