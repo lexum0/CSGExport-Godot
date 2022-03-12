@@ -21,3 +21,8 @@ Limitations:
 - Only material diffuse and emission colors will be exported (Textures and maps wont be exported, but you can add them manually in your 3D editing software) 
 
 - The plugin is still experimental ,so please report for bugs at: mohammedzero43@gmail.com
+
+
+
+https://user-images.githubusercontent.com/2546522/158038410-33369c57-d556-4891-a60a-4b92ee4e5a95.mov
+
