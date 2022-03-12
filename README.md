@@ -5,8 +5,8 @@ Convert or Export CSG Meshes with 1 click
 
 How to use:
 - Combine all your CSGMeshes under a CSGCombiner node then: 
-a) Press (Convert CSG to Mesh) to convert to a MeshInstance node
-b) Press (Export CSG to OBJ) in the Spatial Container Menu to save as a Wavefront OBJ file
+- a) Press (Convert CSG to Mesh) to convert to a MeshInstance node
+- b) Press (Export CSG to OBJ) in the Spatial Container Menu to save as a Wavefront OBJ file
 
 Converting the CSGCombiner node to a MeshInstance will add a Trimesh Static Body if the CSG node has Use Collision enabled. If it has been converted before and a node exists, it will be replaced while conserving the Physics Material Override in the Static Body
 
